@@ -3,5 +3,3 @@ class MeuPrograma {
         System.out.println("Meu primeiro projeto Java");
     }
 }
-
-/* TESTE */
