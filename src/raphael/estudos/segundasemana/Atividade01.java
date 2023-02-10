@@ -10,7 +10,7 @@ public class Atividade01 {
       i++;
     }  */
 
-    for (i = 150; i <= 500; i++ ) {
+    for (i = 150; i <= 150; i++ ) {
       System.out.println(i);
     }
   }
