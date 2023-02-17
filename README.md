@@ -1,6 +1,6 @@
 ## Começando
 
-Bem vindo ao meu repositório de estudos Java, focado no Livro estou lendo sobre desenvolvimento em Java. Fique a vontade para utilizar esse repositório para estudos.
+Bem vindo ao meu repositório de estudos Java, focado no Livro que estou lendo sobre desenvolvimento em Java. Fique a vontade para utilizar esse repositório para estudos.
 
 # Projeto desenvolvido pela IDE Visual Studio Code
 
